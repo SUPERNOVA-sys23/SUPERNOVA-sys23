@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SUPERNOVA-sys23
-- 👀 I’m interested in ...learining AI & ML, Java, Python
+- 👀 I’m interested in ...learning AI & ML, Java, Python & more...
 - 🌱 I’m currently learning ...Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...My instagram - @_.frostbite23._
