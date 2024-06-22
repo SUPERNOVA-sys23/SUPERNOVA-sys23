@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...learining AI & ML, Java, Python
 - 🌱 I’m currently learning ...Java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...My instagram - @menacingnemesis
+- 📫 How to reach me ...My instagram - @_.frostbite23._
 
 <!---
 SUPERNOVA-sys23/SUPERNOVA-sys23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
